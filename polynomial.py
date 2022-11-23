@@ -2,6 +2,8 @@ from gmpy2 import powmod
 
 # class polynomial(object):
 
+#TODO: polyExponential
+
 def mod(array,N):
 	tmp=[]
 	for e in array:
